@@ -14,16 +14,18 @@ Explore the world with Travelo – the ultimate adventure companion. 🚀 Experi
 
 - **New Locations Every Month:** Join our worldwide community of climbers and discover numerous new locations shared every month. 🌍
 
+
 ## Screenshots:
 
+### Hero section
 ![Hero section](screenshots/travelo_hero.PNG)
-*Caption for Screenshot 1*
 
+### Camp Section
 ![Camp Section](screenshots/travelo_camp.PNG)
-*Caption for Screenshot 2*
 
+### Guide Section
 ![Guide Section](screenshots/travelo_boat.PNG)
-*Caption for Screenshot 2*
+
 
 ## Get Started:
 
